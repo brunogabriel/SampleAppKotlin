@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SampleAppKotlin</string>
+
+    <!-- commons -->
+    <string name="create_button_text">Create</string>
+    <string name="name_hint">Name</string>
+    <string name="surname_hint">Surname</string>
+    <string name="save_user">User saved!!!</string>
+    <string name="undestood">Understood</string>
+
+    <!-- error messages -->
+    <string name="name_error">Invalid name</string>
+    <string name="surname_error">Invalid surname</string>
+</resources>
