@@ -31,7 +31,7 @@ class RegisterPresenterTest {
     }
 
     @Test
-    fun `should show surname error when has no name`() {
+    fun `should show surname error when has no surname`() {
         // given
         val registerView = Mockito.mock(RegisterView::class.java)
         val presenter = ImplRegisterPresenter(registerView)
